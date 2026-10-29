@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Maclip</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 29 Oct 2026 23:47:24 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://themains-tech.github.io/maclip-releases/Maclip-0.1.0.zip" length="4491672" type="application/octet-stream" sparkle:edSignature="5H3n2uAv4U4ew63D2NhvDp7uSZWgigdbpVBrpcIzc91pap1yjx4DetpmRKZbj6m7p+6YDpwi7V2gAVNwOuQSCA=="/>
+        </item>
+    </channel>
+</rss>
