@@ -3,6 +3,19 @@
     <channel>
         <title>Maclip</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Fri, 30 Oct 2026 14:28:11 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://themains-tech.github.io/maclip-releases/Maclip-0.2.2.zip" length="4979318" type="application/octet-stream" sparkle:edSignature="Xjcw0euVXFXcU83ryaNsRstAjJwTIUoAftMGCKH4FB3Qp/0u1Bmp54vlHB08Ma/euC1mlCo4eSiiAPz6DKkxBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://themains-tech.github.io/maclip-releases/Maclip4-3.delta" sparkle:deltaFrom="3" length="878818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MiDM19w+eLWe/6leB7qrPCpF6PiwzI248DqHKQpYBHnDPfLVxlq/3ORFdtZFogDRJzc2jPIvDI1oC6hm8/gNBg=="/>
+                <enclosure url="https://themains-tech.github.io/maclip-releases/Maclip4-2.delta" sparkle:deltaFrom="2" length="882374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sMjsJ863DVaFTOFSNdfX6c1vK/7ClrfZexdD8U5HbDvWjCt9ctk+62CF5CgrGu9B7tW3jUx9Is/rzTZxM9rQDw=="/>
+                <enclosure url="https://themains-tech.github.io/maclip-releases/Maclip4-1.delta" sparkle:deltaFrom="1" length="928494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FqbIaGqjtcSGfmsr/8az2lEtEgN7nFhitvPHEEpIMNR0uGjVga8OOlxdcUAfdXEZzZiiu6hbua2s2leBr96pAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Fri, 30 Oct 2026 13:44:22 +0200</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -24,14 +37,6 @@
             <sparkle:deltas>
                 <enclosure url="https://themains-tech.github.io/maclip-releases/Maclip2-1.delta" sparkle:deltaFrom="1" length="484014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H7+KsSuzKNOm8ugy37P9L/4GjPGC4zIH3Tjgao6oTXeZ3nfsTAtcg26tIKS53Vl3Vno9Yip0Erht0AL+q/29Bw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Thu, 29 Oct 2026 23:47:24 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://themains-tech.github.io/maclip-releases/Maclip-0.1.0.zip" length="4491672" type="application/octet-stream" sparkle:edSignature="5H3n2uAv4U4ew63D2NhvDp7uSZWgigdbpVBrpcIzc91pap1yjx4DetpmRKZbj6m7p+6YDpwi7V2gAVNwOuQSCA=="/>
         </item>
     </channel>
 </rss>
